@@ -1,13 +1,14 @@
 {
-    "name": "webdashboard",
-    "dependencies": {
-        "grunt": "^1.0.1",
-        "grunt-cli": "^1.2.0",
-        "grunt-webpack": "^1.0.14",
-        "webpack": "^1.12.14",
-        "webpack-dev-server": "^1.14.1"
-    },
-    "scripts": {
-        "start": "grunt"
-    }
+    "name": "yarn-issue-demo",
+        "dependencies": {
+            "grunt": "^1.0.1",
+            "grunt-cli": "^1.2.0",
+            "grunt-contrib-less": "^1.4.0",
+            "grunt-webpack": "^1.0.14",
+            "webpack": "^1.12.14",
+            "webpack-dev-server": "^1.14.1"
+        },
+        "scripts": {
+            "start": "grunt"
+        }
 }
